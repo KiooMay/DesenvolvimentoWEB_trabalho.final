@@ -1,0 +1,3 @@
+O ficheiro "Desenvolvimento de WEB ll", diz respeito ao SCRIPT SQL usado para a criação da base de dados usando para o efeito o xampp, nele está o script.
+
+O fecheiro .rar, estava na pasta "htdocs", não sabemos se a extração tem de ser feita nesse mesmo local para funçionar, mas se assim for, extraindo a pasta "htdocs.rar" na pasta do xampp "htdocs" tudo deve funcionar.
